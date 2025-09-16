@@ -1,0 +1,1 @@
+ <?php get_header(); ?>   <div id="content">  <div class="recent">  <center>    <h4>404 - Sayfa Bulunamadı ya da yok!</h4>	<img src="<? bloginfo("template_url")?>/images/404.png" alt="404" />		</center>		</div></div>   <? get_sidebar(); ?>  <? get_footer(); ?>
